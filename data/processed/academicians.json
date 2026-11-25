@@ -1,0 +1,34 @@
+[
+  {
+    "id": "acad_0001",
+    "name": "Ahmet Yilmaz",
+    "title": "Prof. Dr.",
+    "university": "Bursa Technical University",
+    "department": "Computer Engineering",
+    "fields": ["Machine Learning", "Computer Vision", "Deep Learning"]
+  },
+  {
+    "id": "acad_0002",
+    "name": "Elif Kaya",
+    "title": "Assoc. Prof. Dr.",
+    "university": "Middle East Technical University",
+    "department": "Computer Engineering",
+    "fields": ["Machine Learning", "Natural Language Processing", "Artificial Intelligence"]
+  },
+  {
+    "id": "acad_0003",
+    "name": "John Smith",
+    "title": "Professor",
+    "university": "Massachusetts Institute of Technology",
+    "department": "Computer Science",
+    "fields": ["Robotics", "Computer Vision", "Reinforcement Learning"]
+  },
+  {
+    "id": "acad_0004",
+    "name": "Can Demir",
+    "title": "Asst. Prof. Dr.",
+    "university": "Istanbul Technical University",
+    "department": "Computer Engineering",
+    "fields": ["Cybersecurity", "Computer Networks", "Distributed Systems"]
+  }
+]
