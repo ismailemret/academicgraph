@@ -1,0 +1,34 @@
+{
+  "Artificial Intelligence": {
+    "Machine Learning": {
+      "Deep Learning": {},
+      "Reinforcement Learning": {}
+    },
+    "Computer Vision": {},
+    "Natural Language Processing": {}
+  },
+  "Computer Systems": {
+    "Distributed Systems": {},
+    "Cloud Computing": {},
+    "Operating Systems": {},
+    "Computer Architecture": {}
+  },
+  "Computer Networks": {
+    "Cybersecurity": {},
+    "Blockchain": {}
+  },
+  "Robotics": {
+    "Control Systems": {},
+    "Autonomous Systems": {}
+  },
+  "Theory of Computation": {
+    "Algorithms": {},
+    "Graph Theory": {},
+    "Formal Methods": {}
+  },
+  "Software Engineering": {
+    "Human-Computer Interaction": {},
+    "Databases": {},
+    "Data Mining": {}
+  }
+}
